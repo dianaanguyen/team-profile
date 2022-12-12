@@ -1,6 +1,6 @@
 
 # Team Profile Generator
-
+This repository contains a team profile generator that is run through the command line utilizing Node,js. The inquirer package presents the user a set of questions that asks about the employees in their team. The questions will ask about the employee's name, position, email, and other questions that pertain to their position. Once the application retrieves the data, it will render an HTML document that lists the profiles of each team member with the information provided.
 ## User Story
 
 ```md
