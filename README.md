@@ -32,5 +32,10 @@ THEN I exit the application, and the HTML is generated
 ```
 
 ## Screenshot
+![DEMO PIC](https://user-images.githubusercontent.com/111664734/206990668-c22e7b9d-7c94-4409-9e47-4c2e38e0d532.png)
 
 ## Walkthrough Video 
+
+
+https://user-images.githubusercontent.com/111664734/206990697-225606e8-f367-4276-818f-41894abea34d.mov
+
